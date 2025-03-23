@@ -5,3 +5,5 @@
 </p>
 
 **What is BeEF?**
+<br/> <br/>
+BeEF is an open source tool designed to enable an attacker to use a target's browser as an attack point, or beachhead. The project's website says the tool is designed to "hook one or more web browsers and use them as beachheads for launching directed command modules and further attacks against the system from within the browser context."
