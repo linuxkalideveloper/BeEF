@@ -15,4 +15,5 @@ In Linux Operating System
 ````
 sudo apt install beef-xss
 ````
-
+# Practical Implementation :
+https://drive.google.com/file/d/1UJD3GaCosOu-hIt5Dmi7XazZvT9uy1XA/view?usp=sharing
